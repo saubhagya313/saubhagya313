@@ -2,7 +2,7 @@
 
 ## About Me
 - Learning Web Development
-- Interested in Java, JavaScript
+- Interested in Coding
 - Building small projects to improve skills
 
 ## Skills
